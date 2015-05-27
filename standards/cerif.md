@@ -16,7 +16,7 @@ sponsors:
     url: http://www.eurocris.org
   - name: European University Infromation System
     url: http://www.eunis.org
-contact: Anna van Saksenlaan
+contact: eurocris@eurocris.org
 contact_email: eurocris@eurocris.org
 standard_update_date: 2013-07-25
 version: 1.6
